@@ -20934,3 +20934,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-15.19.27:154][126]LogSavePackage: Moving '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/BP_PlayerCharacterDB66F4744FE2869D22B491890FF766D1.tmp' to '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Core/Characters/BP_PlayerCharacter.uasset'
 [2020.11.04-15.19.27:177][126]AssetCheck: New page: Asset Save: BP_PlayerCharacter
 [2020.11.04-15.19.27:178][126]LogContentValidation: Display: Validating Blueprint /Game/Core/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2020.11.04-15.20.35:104][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.11.04-15.20.36:274][564]LogSlate: Window 'Save Content' being destroyed
+[2020.11.04-15.20.36:333][564]LogSavePackage: Moving '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/BP_TurettCharacter4B8DCC1149D504855671C7856B0B3A88.tmp' to '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Core/Characters/BP_TurettCharacter.uasset'
+[2020.11.04-15.20.36:345][564]LogSavePackage: Moving '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/BP_GameModeBase8320A4D743C0ED2DCD46EDAA6474B018.tmp' to '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Core/GameModes/BP_GameModeBase.uasset'
+[2020.11.04-15.20.36:376][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.04-15.20.36:389][564]LogSavePackage: Moving '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/Level1B22464174E4676848B7A5CB715EE969E.tmp' to '../../../../../../Users/GS-Bachelor-Master/Documents/Unreal Projects/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level1.umap'
+[2020.11.04-15.20.36:408][564]LogFileHelpers: Saving map 'Level1' took 0.061
+[2020.11.04-15.20.36:434][564]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-15.20.36:434][564]LogContentValidation: Display: Validating Blueprint /Game/Core/Characters/BP_TurettCharacter.BP_TurettCharacter
+[2020.11.04-15.20.36:434][564]LogContentValidation: Display: Validating Blueprint /Game/Core/GameModes/BP_GameModeBase.BP_GameModeBase
+[2020.11.04-15.20.36:434][564]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
