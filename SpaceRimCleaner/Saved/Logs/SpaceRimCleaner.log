@@ -734,3 +734,408 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-16.08.40:005][875]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2020.11.04-16.08.40:010][875]LogContentValidation: Display: Validating World /Game/Maps/Level_Art.Level_Art
 [2020.11.04-16.08.40:024][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.04-16.24.29:254][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Particules/Tirs/pasvide.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.24.29:262][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Shadders/DotOutline/New_Graph_output2.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.24.29:269][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Shadders/DotOutline/ShaderDotOutline.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.24.29:275][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Shadders/DotOutline/ShaderDotOutline_Inst.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.24.29:283][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Shadders/DotOutline/T_Vfx01.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.24.29:291][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Shadders/DotShadow/ShadderObject.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.24.29:298][762]LogAssetTools: Warning: Failed to import 'D:\Users\GS-Bachelor-Master\Desktop\GA3\Projet_Unreal\VFX\Vfx/Shadders/DotShadow/ShadderObject_Inst.uasset'. Unknown extension 'uasset'.
+[2020.11.04-16.25.49:408][695]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_Art.Level_Art
+[2020.11.04-16.25.49:418][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.11.04-16.25.49:419][695]Cmd: MAP LOAD FILE="D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level_Art.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.04-16.25.49:419][695]LightingResults: New page: Lighting Build
+[2020.11.04-16.25.49:419][695]LoadErrors: New page: Loading map: Level_Art.umap
+[2020.11.04-16.25.49:459][695]LogWorld: UWorld::CleanupWorld for Level_Art, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.25.49:459][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.25.49:460][695]MapCheck: New page: Map Check
+[2020.11.04-16.25.49:460][695]LightingResults: New page: Lighting Build
+[2020.11.04-16.25.49:470][695]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014322748900), frame # 15695
+[2020.11.04-16.25.49:470][695]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001432D2D2200), frame # 15695
+[2020.11.04-16.25.49:471][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.04-16.25.49:483][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.04-16.25.49:493][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.04-16.25.49:495][695]LogAIModule: Creating AISystem for world Level_Art
+[2020.11.04-16.25.49:495][695]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001432C5D8800), frame # 15695
+[2020.11.04-16.25.49:495][695]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014309015800), frame # 15695
+[2020.11.04-16.25.49:496][695]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.04-16.25.49:507][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.11.04-16.25.49:520][695]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.04-16.25.49:520][695]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,057ms to complete.
+[2020.11.04-16.25.49:520][695]LogFileHelpers: Loading map 'Level_Art' took 0.100
+[2020.11.04-16.26.08:032][667]LogSlate: Window 'Message' being destroyed
+[2020.11.04-16.26.08:036][667]Message dialog closed, result: Ok, title: Message, text: A level with that name (/Game/Maps/Level_Art) already exists in the world.
+[2020.11.04-16.26.38:875][111]LogSlate: Window 'Message' being destroyed
+[2020.11.04-16.26.38:879][111]Message dialog closed, result: Ok, title: Message, text: A level with that name (/Game/Maps/Level_Art) already exists in the world.
+[2020.11.04-16.26.51:088][842]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level_Art.Level_Art:PersistentLevel.Level_Art
+[2020.11.04-16.26.51:268][842]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.11.04-16.26.51:990][842]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.04-16.26.54:165][969]LogSlate: Window 'Level_Art' being destroyed
+[2020.11.04-16.26.54:170][969]LogSlate: Window 'Level_Art' being destroyed
+[2020.11.04-16.26.54:178][969]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.26.54:178][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.27.10:215][928]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2020.11.04-16.27.10:234][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.11.04-16.27.10:235][928]Cmd: MAP LOAD FILE="D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.04-16.27.10:235][928]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.10:235][928]LoadErrors: New page: Loading map: Level1.umap
+[2020.11.04-16.27.10:236][928]LogWorld: UWorld::CleanupWorld for Level_Art, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.27.10:236][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.27.10:236][928]MapCheck: New page: Map Check
+[2020.11.04-16.27.10:236][928]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.10:251][928]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014309015800), frame # 19928
+[2020.11.04-16.27.10:251][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001432C5D8800), frame # 19928
+[2020.11.04-16.27.10:253][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.11.04-16.27.10:254][928]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Art) is flushing async loading
+[2020.11.04-16.27.10:254][928]LogStreaming: Display: Flushing async loaders.
+[2020.11.04-16.27.10:256][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.04-16.27.10:256][928]LogAIModule: Creating AISystem for world Level1
+[2020.11.04-16.27.10:256][928]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000143871E9600), frame # 19928
+[2020.11.04-16.27.10:256][928]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014340580400), frame # 19928
+[2020.11.04-16.27.10:275][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.04-16.27.10:287][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.04-16.27.10:287][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,077ms to complete.
+[2020.11.04-16.27.10:287][928]LogFileHelpers: Loading map 'Level1' took 0.052
+[2020.11.04-16.27.31:622][100]LogSlate: Window 'Remove Level' being destroyed
+[2020.11.04-16.27.31:628][100]LogWorld: UWorld::CleanupWorld for Level_Art, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.27.31:628][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.27.31:662][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.04-16.27.31:693][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.11.04-16.27.31:694][100]MapCheck: New page: Map Check
+[2020.11.04-16.27.31:695][100]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.31:710][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.04-16.27.31:726][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.04-16.27.33:218][185]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_Art.Level_Art
+[2020.11.04-16.27.33:234][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.11.04-16.27.33:234][185]Cmd: MAP LOAD FILE="D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level_Art.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.04-16.27.33:235][185]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.33:235][185]LoadErrors: New page: Loading map: Level_Art.umap
+[2020.11.04-16.27.33:235][185]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.27.33:236][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.27.33:236][185]MapCheck: New page: Map Check
+[2020.11.04-16.27.33:236][185]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.33:251][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014340580400), frame # 21185
+[2020.11.04-16.27.33:251][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000143871E9600), frame # 21185
+[2020.11.04-16.27.33:253][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.11.04-16.27.33:254][185]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.04-16.27.33:254][185]LogAIModule: Creating AISystem for world Level_Art
+[2020.11.04-16.27.33:254][185]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001432DE14400), frame # 21185
+[2020.11.04-16.27.33:254][185]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000143325FDE40), frame # 21185
+[2020.11.04-16.27.33:273][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.04-16.27.33:286][185]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.04-16.27.33:286][185]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,062ms to complete.
+[2020.11.04-16.27.33:286][185]LogFileHelpers: Loading map 'Level_Art' took 0.052
+[2020.11.04-16.27.37:126][335]LogSlate: Window 'Message' being destroyed
+[2020.11.04-16.27.37:130][335]Message dialog closed, result: Ok, title: Message, text: A level with that name (/Game/Maps/Level_Art) already exists in the world.
+[2020.11.04-16.27.42:983][685]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_Art.Level_Art
+[2020.11.04-16.27.42:998][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.11.04-16.27.42:999][685]Cmd: MAP LOAD FILE="D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level_Art.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.04-16.27.42:999][685]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.42:999][685]LoadErrors: New page: Loading map: Level_Art.umap
+[2020.11.04-16.27.43:000][685]LogWorld: UWorld::CleanupWorld for Level_Art, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.27.43:000][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.27.43:000][685]MapCheck: New page: Map Check
+[2020.11.04-16.27.43:000][685]LightingResults: New page: Lighting Build
+[2020.11.04-16.27.43:017][685]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000143325FDE40), frame # 21685
+[2020.11.04-16.27.43:017][685]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001432DE14400), frame # 21685
+[2020.11.04-16.27.43:019][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.11.04-16.27.43:022][685]LogAIModule: Creating AISystem for world Level_Art
+[2020.11.04-16.27.43:022][685]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014381E22400), frame # 21685
+[2020.11.04-16.27.43:022][685]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000143325FF380), frame # 21685
+[2020.11.04-16.27.43:023][685]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.04-16.27.43:043][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.04-16.27.43:055][685]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.04-16.27.43:055][685]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,058ms to complete.
+[2020.11.04-16.27.43:055][685]LogFileHelpers: Loading map 'Level_Art' took 0.057
+[2020.11.04-16.27.54:068][344]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.27.54:604][376]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.28.23:402][ 99]Cmd: TRANSACTION UNDO
+[2020.11.04-16.28.23:402][ 99]LogEditorTransaction: Undo Create Actors
+[2020.11.04-16.28.24:975][189]Cmd: TRANSACTION UNDO
+[2020.11.04-16.28.24:975][189]LogEditorTransaction: Undo Create Actors
+[2020.11.04-16.28.25:446][217]LogEditor: Attempting to add actor of class 'ARSkyLight' to level at 220.00,140.00,800.00
+[2020.11.04-16.28.25:745][235]LogEditor: Attempting to add actor of class 'ARSkyLight' to level at 820.00,490.00,660.00
+[2020.11.04-16.28.26:291][268]Cmd: TRANSACTION UNDO
+[2020.11.04-16.28.26:291][268]LogEditorTransaction: Undo Create Actors
+[2020.11.04-16.28.52:373][832]Cmd: DELETE
+[2020.11.04-16.28.52:373][832]Cmd: ACTOR DELETE
+[2020.11.04-16.28.52:383][832]LogEditorActor: Deleted Actor: SkyLight
+[2020.11.04-16.28.52:399][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.11.04-16.28.52:402][832]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.11.04-16.29.12:020][  8]LogSlate: Took 0.001065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.04-16.29.36:476][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.29.37:174][508]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.11.04-16.29.39:295][634]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.11.04-16.29.46:038][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.29.47:126][ 97]Cmd: TRANSACTION UNDO
+[2020.11.04-16.29.47:126][ 97]LogEditorTransaction: Undo Rotate Actors
+[2020.11.04-16.30.07:634][315]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.04-16.30.09:722][440]Cmd: DELETE
+[2020.11.04-16.30.09:722][440]Cmd: ACTOR DELETE
+[2020.11.04-16.30.09:723][440]LogEditorActor: Deleted Actor: Actor
+[2020.11.04-16.30.09:741][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.11.04-16.30.09:745][440]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.04-16.30.11:020][515]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.30.11:572][548]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.30.14:309][711]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.14:309][711]LogEditorTransaction: Undo Move Actors
+[2020.11.04-16.30.14:911][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.30.22:803][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.11.04-16.30.27:014][465]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.27:014][465]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.04-16.30.27:477][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.30.28:471][545]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.28:471][545]LogEditorTransaction: Undo Move Actors
+[2020.11.04-16.30.29:170][587]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.29:170][587]LogEditorTransaction: Undo Scale Actors
+[2020.11.04-16.30.30:337][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.11.04-16.30.31:532][727]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.31:532][727]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.04-16.30.31:931][750]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.31:931][750]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.04-16.30.32:394][777]Cmd: TRANSACTION UNDO
+[2020.11.04-16.30.32:395][777]LogEditorTransaction: Undo Create Actors
+[2020.11.04-16.30.34:408][896]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.30.34:677][912]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.30.38:181][120]LogActorFactory: Actor Factory created Sphere
+[2020.11.04-16.30.38:600][145]LogActorFactory: Actor Factory created Sphere
+[2020.11.04-16.31.31:463][265]LogTexture: Display: Building textures: T_Vfx01 (AutoDXT, 2048X2048)
+[2020.11.04-16.31.31:463][265]LogMaterial: Display: Missing cached shader map for material ShadderObject, compiling. 
+[2020.11.04-16.31.31:487][265]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.11.04-16.31.31:487][265]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.11.04-16.31.31:487][265]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.11.04-16.31.31:487][265]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.11.04-16.31.31:487][265]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.11.04-16.31.31:487][265]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.04-16.32.25:353][495]Cmd: TRANSACTION UNDO
+[2020.11.04-16.32.25:353][495]LogEditorTransaction: Undo Edit Intensity
+[2020.11.04-16.32.27:385][610]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/VFX/Shadders/DotShadow/ShadderObject.ShadderObject
+[2020.11.04-16.32.27:389][610]LogMaterial: Display: Missing cached shader map for material ShadderObject, compiling. 
+[2020.11.04-16.32.27:635][610]LogMaterial: Display: Missing cached shader map for material ShadderObject, compiling. 
+[2020.11.04-16.32.27:640][610]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.04-16.32.27:640][610]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.04-16.32.27:640][610]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.04-16.32.27:640][610]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.04-16.32.27:644][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.11.04-16.32.27:649][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.11.04-16.32.27:653][610]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.11.04-16.32.27:653][610]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.11.04-16.32.27:653][610]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.11.04-16.32.27:653][610]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.11.04-16.32.27:653][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_0, compiling. 
+[2020.11.04-16.32.27:658][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.11.04-16.32.27:663][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.11.04-16.32.27:860][612]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.11.04-16.32.28:206][624]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.11.04-16.32.28:300][628]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.11.04-16.32.28:324][629]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.11.04-16.32.28:347][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2020.11.04-16.32.28:481][635]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.11.04-16.32.28:481][635]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.11.04-16.32.28:481][635]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.04-16.32.28:481][635]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.11.04-16.32.28:507][636]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2020.11.04-16.32.28:508][636]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.11.04-16.32.28:508][636]MaterialEditorStats: Texture samplers: 5/16
+[2020.11.04-16.32.28:508][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2020.11.04-16.32.28:546][636]LogSlate: Took 0.000825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.04-16.32.28:864][649]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.11.04-16.32.28:864][649]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.11.04-16.32.28:932][652]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.11.04-16.32.28:998][655]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.11.04-16.32.29:055][658]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.04-16.32.29:055][658]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.11.04-16.32.29:162][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.04-16.32.48:827][826]LogSlate: Window 'ShadderObject' being destroyed
+[2020.11.04-16.32.48:831][826]LogSlate: Window 'ShadderObject' being destroyed
+[2020.11.04-16.32.48:857][826]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.32.48:857][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.32.50:669][933]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/VFX/Shadders/DotShadow/ShadderObject.ShadderObject
+[2020.11.04-16.32.50:673][933]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.11.04-16.32.50:751][933]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.11.04-16.32.50:756][933]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.11.04-16.32.50:763][933]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.11.04-16.32.50:765][933]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.11.04-16.32.50:768][933]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.11.04-16.32.50:768][933]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_0, compiling. 
+[2020.11.04-16.32.50:771][933]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.11.04-16.32.50:775][933]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.11.04-16.32.51:024][938]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.11.04-16.32.51:334][950]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.11.04-16.32.51:417][954]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.11.04-16.32.51:417][954]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.04-16.32.51:417][954]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2020.11.04-16.32.51:526][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.11.04-16.32.51:526][960]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.11.04-16.32.51:569][962]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.11.04-16.32.51:569][962]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.11.04-16.32.51:592][963]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2020.11.04-16.32.51:592][963]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.11.04-16.32.51:592][963]MaterialEditorStats: Texture samplers: 5/16
+[2020.11.04-16.32.51:592][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2020.11.04-16.32.52:016][980]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.11.04-16.32.52:016][980]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.11.04-16.32.52:041][981]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.11.04-16.32.52:131][985]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.04-16.32.52:131][985]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.11.04-16.32.52:182][987]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.04-16.32.52:210][988]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.04-16.33.03:838][667]LogSlate: Window 'ShadderObject' being destroyed
+[2020.11.04-16.33.03:844][667]LogSlate: Window 'ShadderObject' being destroyed
+[2020.11.04-16.33.03:867][667]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.33.03:867][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.33.15:763][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.11.04-16.33.27:554][ 85]Cmd: TRANSACTION UNDO
+[2020.11.04-16.33.27:554][ 85]LogEditorTransaction: Undo Edit Shadow Exponent
+[2020.11.04-16.33.28:146][116]Cmd: TRANSACTION UNDO
+[2020.11.04-16.33.28:147][116]LogEditorTransaction: Undo Edit Shadow Exponent
+[2020.11.04-16.33.30:655][266]Cmd: TRANSACTION UNDO
+[2020.11.04-16.33.30:655][266]LogEditorTransaction: Undo Edit Light Source Angle
+[2020.11.04-16.33.30:935][282]Cmd: TRANSACTION UNDO
+[2020.11.04-16.33.30:935][282]LogEditorTransaction: Undo Edit Indirect Lighting Saturation
+[2020.11.04-16.33.33:133][413]Cmd: TRANSACTION UNDO
+[2020.11.04-16.33.33:133][413]LogEditorTransaction: Undo Edit Editor Billboard Scale
+[2020.11.04-16.34.01:169][ 94]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.01:169][ 94]LogEditorTransaction: Undo Edit Dynamic Shadow Distance StationaryLight
+[2020.11.04-16.34.01:458][108]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.01:458][108]LogEditorTransaction: Undo Edit Num Dynamic Shadow Cascades
+[2020.11.04-16.34.03:515][229]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.03:516][229]LogEditorTransaction: Undo Edit Distribution Exponent
+[2020.11.04-16.34.03:984][257]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.03:984][257]LogEditorTransaction: Undo Edit Distance Fadeout Fraction
+[2020.11.04-16.34.04:617][295]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.04:617][295]LogEditorTransaction: Undo Edit Transition Fraction
+[2020.11.04-16.34.05:233][332]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.05:233][332]LogEditorTransaction: Undo Edit Transition Fraction
+[2020.11.04-16.34.05:900][372]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.05:900][372]LogEditorTransaction: Undo Edit Distribution Exponent
+[2020.11.04-16.34.06:551][411]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.06:551][411]LogEditorTransaction: Undo Edit Dynamic Shadow Distance StationaryLight
+[2020.11.04-16.34.07:538][470]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.07:538][470]LogEditorTransaction: Undo Edit Dynamic Shadow Distance StationaryLight
+[2020.11.04-16.34.08:354][519]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.08:355][519]LogEditorTransaction: Undo Edit Use Area Shadows for Stationary Light
+[2020.11.04-16.34.10:355][639]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.10:355][639]LogEditorTransaction: Undo Edit Use Area Shadows for Stationary Light
+[2020.11.04-16.34.11:271][694]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.11:271][694]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.04-16.34.15:118][924]LogEditorViewport: Clicking Background
+[2020.11.04-16.34.18:690][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.34.22:932][390]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.22:932][390]LogEditorTransaction: Undo Scale Actors
+[2020.11.04-16.34.24:995][509]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.24:995][509]LogEditorTransaction: Undo Scale Actors
+[2020.11.04-16.34.34:611][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.34.36:439][194]Cmd: TRANSACTION UNDO
+[2020.11.04-16.34.36:439][194]LogEditorTransaction: Undo Scale Actors
+[2020.11.04-16.34.52:006][121]LogSlate: Took 0.005848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.11.04-16.35.19:594][775]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst.ShadderObject_Inst
+[2020.11.04-16.35.54:388][852]Cmd: TRANSACTION UNDO
+[2020.11.04-16.35.54:388][852]LogEditorTransaction: Undo Edit Distance Skybox
+[2020.11.04-16.35.55:099][886]Cmd: TRANSACTION UNDO
+[2020.11.04-16.35.55:099][886]LogEditorTransaction: Undo Move Actors
+[2020.11.04-16.35.57:147][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.36.08:724][700]LogSlate: Window 'ShadderObject_Inst' being destroyed
+[2020.11.04-16.36.08:730][700]LogSlate: Window 'ShadderObject_Inst' being destroyed
+[2020.11.04-16.36.08:754][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.11.04-16.36.08:783][700]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.11.04-16.36.08:801][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.11.04-16.36.08:822][700]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.36.08:822][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.36.15:956][127]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst.ShadderObject_Inst
+[2020.11.04-16.36.24:678][643]Cmd: TRANSACTION UNDO
+[2020.11.04-16.36.24:679][643]LogEditorTransaction: Undo Edit Distance Skybox
+[2020.11.04-16.36.25:772][700]LogSlate: Window 'ShadderObject_Inst' being destroyed
+[2020.11.04-16.36.25:777][700]LogSlate: Window 'ShadderObject_Inst' being destroyed
+[2020.11.04-16.36.25:797][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.11.04-16.36.25:819][700]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.11.04-16.36.25:836][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.11.04-16.36.25:858][700]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-16.36.25:858][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-16.36.26:509][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.36.27:883][821]Cmd: DELETE
+[2020.11.04-16.36.27:883][821]Cmd: ACTOR DELETE
+[2020.11.04-16.36.27:884][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.04-16.36.27:902][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.11.04-16.36.27:903][821]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.04-16.36.32:702][108]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.36.32:955][123]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.36.33:556][159]LogActorFactory: Actor Factory created Cube
+[2020.11.04-16.36.46:765][949]LogEditorViewport: Clicking Background
+[2020.11.04-16.36.58:334][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.11.04-16.37.05:985][100]Cmd: TRANSACTION UNDO
+[2020.11.04-16.37.05:985][100]LogEditorTransaction: Undo Rotate Actors
+[2020.11.04-16.37.09:240][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.11.04-16.37.43:243][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.11.04-16.37.43:254][322]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/Level_Art_Auto193CA0B9A43C56978000452987A6694EE.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/Autosaves/Game/Maps/Level_Art_Auto1.umap'
+[2020.11.04-16.37.43:254][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Art' took 0.027
+[2020.11.04-16.37.43:254][322]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.027
+[2020.11.04-16.37.43:256][322]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst] ([1] browsable assets)...
+[2020.11.04-16.37.43:265][322]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst.ShadderObject_Inst]
+[2020.11.04-16.37.43:265][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst]
+[2020.11.04-16.37.43:272][322]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShadderObject_Inst_Auto165390A704E72EE731B3B24A4D71F165B.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/Autosaves/Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst_Auto1.uasset'
+[2020.11.04-16.37.43:272][322]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.11.04-16.40.09:921][580]LogTexture: Display: Building textures: New_Graph_output2 (AutoDXT, 2048X2048)
+[2020.11.04-16.40.09:921][580]LogMaterial: Display: Missing cached shader map for material ShaderDotOutline, compiling. 
+[2020.11.04-16.40.09:947][580]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.11.04-16.40.09:947][580]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.04-16.40.09:947][580]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.11.04-16.40.09:947][580]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.11.04-16.40.09:947][580]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.11.04-16.40.10:028][580]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/T_Vfx017C2EC24E4D0499A33A2D20B1CC83403E.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/ShadderDotOutline/T_Vfx01.uasset'
+[2020.11.04-16.40.10:071][580]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/New_Graph_output279D00BAC4DFF836B2C128CAF061E37BB.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/ShadderDotOutline/New_Graph_output2.uasset'
+[2020.11.04-16.40.10:786][580]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShaderDotOutlineDC1942184B1E0DE1938A038CB5744717.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/ShadderDotOutline/ShaderDotOutline.uasset'
+[2020.11.04-16.40.10:803][580]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShaderDotOutline_Inst24F754BE42BEF4BA6658908976934E54.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/ShadderDotOutline/ShaderDotOutline_Inst.uasset'
+[2020.11.04-16.40.11:136][580]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Shadders/DotOutline/T_Vfx01.T_Vfx01'
+[2020.11.04-16.40.11:137][580]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Shadders/DotOutline/New_Graph_output2.New_Graph_output2'
+[2020.11.04-16.40.11:137][580]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Shadders/DotOutline/ShaderDotOutline.ShaderDotOutline'
+[2020.11.04-16.40.11:138][580]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Shadders/DotOutline/ShaderDotOutline_Inst.ShaderDotOutline_Inst'
+[2020.11.04-16.40.11:175][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.11.04-16.40.11:197][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.04-16.40.11:213][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.04-16.40.11:228][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.04-16.40.11:250][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.11.04-16.40.11:265][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.04-16.40.11:307][580]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShadderObjectCA17E4B2461E1A3101AE2892BF962FB1.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/DotShadow/ShadderObject.uasset'
+[2020.11.04-16.40.11:310][580]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShadderObject_InstD8D5DCE244596119337F55B0EBC72CA6.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/DotShadow/ShadderObject_Inst.uasset'
+[2020.11.04-16.40.11:357][580]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-16.40.11:357][580]LogContentValidation: Display: Validating Texture2D /Game/Art/VFX/Shadders/ShadderDotOutline/T_Vfx01.T_Vfx01
+[2020.11.04-16.40.11:358][580]LogContentValidation: Display: Validating Texture2D /Game/Art/VFX/Shadders/ShadderDotOutline/New_Graph_output2.New_Graph_output2
+[2020.11.04-16.40.11:358][580]LogContentValidation: Display: Validating Material /Game/Art/VFX/Shadders/ShadderDotOutline/ShaderDotOutline.ShaderDotOutline
+[2020.11.04-16.40.11:358][580]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/VFX/Shadders/ShadderDotOutline/ShaderDotOutline_Inst.ShaderDotOutline_Inst
+[2020.11.04-16.40.11:358][580]LogContentValidation: Display: Validating Material /Game/Art/VFX/Shadders/DotShadow/ShadderObject.ShadderObject
+[2020.11.04-16.40.11:358][580]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst.ShadderObject_Inst
+[2020.11.04-16.40.17:956][971]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShadderObject_Inst7ADF372A4E27BE95BD55A180EC744F3E.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/ShadderDotShadow/ShadderObject_Inst.uasset'
+[2020.11.04-16.40.17:983][971]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/ShadderObjectC29209D841D70593F5C0D19A783AEE43.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Art/VFX/Shadders/ShadderDotShadow/ShadderObject.uasset'
+[2020.11.04-16.40.18:144][971]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Shadders/DotShadow/ShadderObject_Inst.ShadderObject_Inst'
+[2020.11.04-16.40.18:145][971]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Shadders/DotShadow/ShadderObject.ShadderObject'
+[2020.11.04-16.40.18:180][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.11.04-16.40.18:196][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.04-16.40.18:217][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.11.04-16.40.18:231][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.11.04-16.40.18:259][971]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-16.40.18:259][971]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/VFX/Shadders/ShadderDotShadow/ShadderObject_Inst.ShadderObject_Inst
+[2020.11.04-16.40.18:259][971]LogContentValidation: Display: Validating Material /Game/Art/VFX/Shadders/ShadderDotShadow/ShadderObject.ShadderObject
+[2020.11.04-16.40.36:640][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.04-16.40.37:449][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.11.04-16.40.37:490][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.04-16.40.37:496][353]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/Level_Art1CBC3EAE471D186CEA5D7AAC2093A0EB.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level_Art.umap'
+[2020.11.04-16.40.37:510][353]LogFileHelpers: Saving map 'Level_Art' took 0.037
+[2020.11.04-16.40.37:519][353]AssetCheck: New page: Asset Save: Level_Art
+[2020.11.04-16.40.37:519][353]LogContentValidation: Display: Validating World /Game/Maps/Level_Art.Level_Art
+[2020.11.04-16.41.09:782][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.11.04-16.41.09:825][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.04-16.41.09:834][283]LogSavePackage: Moving 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Saved/Level_Art1633D4B445F520D2D1194089B5F07C90.tmp' to 'D:/Users/GS-Bachelor-Master/Desktop/GA3/Projet_Unreal/Github/Git_SpaceRimCleaner/SpaceRimCleaner/Content/Maps/Level_Art.umap'
+[2020.11.04-16.41.09:849][283]LogFileHelpers: Saving map 'Level_Art' took 0.040
+[2020.11.04-16.41.09:857][283]AssetCheck: New page: Asset Save: Level_Art
+[2020.11.04-16.41.09:857][283]LogContentValidation: Display: Validating World /Game/Maps/Level_Art.Level_Art
+[2020.11.04-16.41.34:086][488]LogLinker: Warning: Failed to load '/Game/Art/VFX/Particules/Tirs/pasvide': Can't find file.
+[2020.11.04-16.41.34:086][488]LogLinker: Warning: Failed to load '/Game/Art/VFX/Particules/Tirs/pasvide': Can't find file.
+[2020.11.04-16.41.34:086][488]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Art/VFX/Particules/Tirs/pasvide.pasvide'
